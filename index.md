@@ -13,85 +13,72 @@ author_profile: true
 
  
 - **BSc in Computer Security and Forensics**, Kabarak University – *ongoing*
+-   **Kenya Certificate of Secondary Education**, Sironga Girls High School, Nyamira
+    -   *Graduated: November 2023 (Scored: B+)*
+  -   **Kenya Certificate of primary Education**, Mama Ngina Primary School, Nakuru
+    -   *Graduated: November 2019(Scored: A-)*
+---
+
+
+## 📜 Certifications and Affiliations
+
+
+-   AWS Certified Cloud Practitioner
+-   Oracle OCI AI Foundations Associate (2025)
+-   Certified Public Accountant (CPA) I & II
+-   **Member**, The Institute of Certified Public Accountants of Kenya (ICPAK)
+-   Google Developer Student Club (GDSC) - Kabarak Chapter, Active Participant (2024 - Present)
 
 ---
 
 
-## 📜 Certifications
+## 👩‍💻 Activities & Experience
 
+### Tinkacode - Instructor
+June 2025 - Present
+- Taught children and young learners the fundamentals of *Internet of Things (IoT)* and *programming* through hands-on projects.
+- Guided students in building creative tech solutions, significantly improving their *problem-solving* and *critical thinking* skills.
+- Mentored learners in team-based projects, encouraging *collaboration* and *innovation*.
 
-- Certified Public Accountant I&II
-- IT Governance, Risk, and Compliance (GRC)
-- Information Systems Audit
-- Digital Forensics
-- IT Service Management (ITIL)
+### Peer Tutor - Introduction to Programming (Volunteer)
+2024
+- Regularly mentor peers on project work using *React, **Git, and **IoT* concepts.
 
----
-
-## 👩‍🏫 Academic Experience
-
-**Assistant Professor**, Information Systems  
-*United States International University – Africa*  
-- Over 13 years of teaching experience  
-- Trained 3,900+ undergraduate and postgraduate students  
-- Supervised 22 MSc students 
-- Currently supervising 6 PhD candidates  
-- Spearheaded the development of the MSc in Information Security program (MSEC)  
-- Contributed to curriculum review and quality improvement for IT and CS programs  
+### Google Developer Student Club (GDSC) - Kabarak Chapter
+Active Participant (2024 - Present)
+- Engaged in hands-on sessions on web development, including modern front-end with *React, **Rust, and **Git/GitHub*.
+- Collaborated on group tech projects with fellow students.
 
 ---
 
-## 🧪 Research & Publications
+> Eager to apply technical knowledge in real-world settings and contribute to digital safety and innovation in local communities.
 
-- 18 peer-reviewed journal articles and conference papers  
-- Key research areas:
-  - Cybersecurity education
-  - Governance, Risk and Compliance
-  - Vulnerability analysis
-  - Digital forensics
-  - Cyber hygiene and awareness  
-- Research collaborations with:
-  - Serianu Limited
-  - SWIFT Institute
-  - KICTANet
-  - CIRI (Centre for Informatics Research and Innovation)
 
 ---
 
-## 🌍 Community Engagement
+## 💻 Skills
 
-**Cyber Shujaa Program**, Co-Founder & Curriculum Director  
-- A consortium of Serianu Ltd, USIU-Africa, and Kenya Bankers Association  
-- Trained 2,550 youth across Kenya (41% women)  
-- 80%+ job placement rate in cybersecurity roles  
-- Developed and certified courses for roles such as security analyst, ethical hacker, GRC auditor, and DPO  
-
-**Tatua Digital Resilience Center**  
-- Co-developed a 5-chapter Cyber Hygiene Curriculum  
-- Promoted digital safety and resilience among citizens
-
-**Consulting & Advocacy**  
-- ICT policy advisor and consultant for [KICTANet](https://www.kictanet.or.ke)  
-- Contributor to national cybersecurity strategies and public interest tech initiatives  
+-   **Web Development:** HTML, CSS, JAVASCRIPT, NODEJS, PHP, C
+-   **Professional:** Critical Thinking, Excellent Verbal Communication, Teamwork & Collaboration, Strategic Issue Analysis
+-   **Finance:** Auditing and cash flow processes
+-   **Software:** Microsoft Office Packages
 
 ---
-
 ## 💼 Professional Experience
 
-**Senior Technology Consultant**, Deloitte East Africa  
-**Service Delivery Team Leader**, IT Service Management (UK, Kenya, Uganda, Ethiopia)  
-- Implemented enterprise networks and security systems across Africa  
-- Led ITIL-based service management implementations  
-- Mentored professionals and guided corporate cybersecurity transformations
+**Front-End Developer**, Mama's Hub Bootcamp
+*September 2024 - December 2024*
+-   Utilized HTML, CSS, and JavaScript to create visually appealing and responsive web pages for both mobile and desktop platforms.
+-   Employed version control systems like Git to track changes throughout the development process.
+-   Collaborated with back-end developers to improve features and engage in continuous learning.
+-   Learned to containerize applications using Docker images and containers.
 
 ---
-
 ## 🤝 Collaborations & Memberships
 
-- Challenge Fund for Youth Employment (CFYE)
-- Kenya Bankers Association (KBA)
-- Serianu Research Fellowship Program
-- Centre for Informatics Research and Innovation (CIRI)
+- Tinkacode
+- Google Developer Student Club
+
 
 ---
 
