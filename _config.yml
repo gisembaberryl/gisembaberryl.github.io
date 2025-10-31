@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Berryl Gisemba"
-  avatar : "/assets/images/bio-photo.jpg" # <-- Make sure to add your photo to this path
+  avatar : "/assets/images/berryl g photo.jpg" # <-- Make sure to add your photo to this path
   bio    : "BSc in Computer Security & Forensics student with a passion for cybersecurity, IoT, and front-end development."
   links:
     - label: "LinkedIn"
