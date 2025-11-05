@@ -1,7 +1,7 @@
 ---
 layout: categories
 title: "IoT & Robotics"
-permalink: /iot-robotics/
+permalink: /iot/
 author_profile: true
 ---
 
