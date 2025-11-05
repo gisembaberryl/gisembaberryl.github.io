@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "IoT and Robotics"
+layout: categories
+title: "IoT & Robotics"
 permalink: /iot-robotics/
 author_profile: true
 ---
