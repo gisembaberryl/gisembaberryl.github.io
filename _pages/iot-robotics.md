@@ -1,9 +1,9 @@
 ---
-title: "IoT and Robotics"
-layout:categories
+layout: page
+title: "IoT & Robotics"
 permalink: /iot-robotics/
 author_profile: true
----
+-----
 
 ## 🤖 IoT & Robotics Showcase
 
