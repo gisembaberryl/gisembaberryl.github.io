@@ -5,3 +5,5 @@ main:
     url: /ai/
   - title: "Projects"
     url: /projects/
+  - title: "IoT and Robotics"
+    url: /iot/
