@@ -37,8 +37,8 @@ Beyond formal learning, I actively sharpen my skills on real-world simulation pl
 I am an active user on **Hack The Box** and **TryHackMe**, platforms where I constantly test my abilities against vulnerable-by-design machines.
 
 * **Skills Practiced:** Enumeration, vulnerability scanning, service exploitation, privilege escalation (Linux & Windows), web application attacks, and reverse engineering.
-* **Profile:** [Link to your TryHackMe Profile]
-* **Profile:** [Link to your Hack The Box Profile]
+* **Profile:** [(https://tryhackme.com/p/gisembaberryl)]
+* **Profile:** [(https://academy.hackthebox.com/gisembaberryl)]
 
 ### Capture The Flag (CTF) Competitions
 I regularly participate in CTF competitions, which test creative problem-solving and technical skills under pressure. These challenges have sharpened my abilities in areas like:
