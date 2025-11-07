@@ -7,7 +7,7 @@ permalink: /projects/
 
 # Selected Projects
 
-## 🚀 IoT Smart Environmental Monitor
+## 🚀 IoT Smart Environmental Monitors
 **Role:** Developer & Hardware Integrator  
 A project focused on building an end-to-end IoT device for real-time environmental data collection.
 -   **Hardware:** Integrated a Raspberry Pi with DHT11 (temperature/humidity) and MQ-135 (air quality) sensors to capture environmental metrics.
