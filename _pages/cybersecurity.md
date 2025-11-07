@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: categories
 title: "Cybersecurity"
 permalink: /cybersecurity/
 author_profile: true
