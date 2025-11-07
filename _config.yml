@@ -67,8 +67,8 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gisembaberryl"
     - label: "Phone"
-    icon: "fas fa-fw fa-phone"
-    url: "tel:+254741837591"
+      icon: "fas fa-fw fa-phone"
+      url: "tel:+254741837591"
 
 footer:
   links:
