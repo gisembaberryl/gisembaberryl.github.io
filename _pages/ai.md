@@ -9,6 +9,14 @@ author_profile: true
 
 ### My Vision
 Artificial Intelligence is more than just a tool; it's a new way to solve complex problems. I am driven by the potential of AI to find patterns, automate insights, and create intelligent systems that learn and adapt. My focus is on applying machine learning, deep learning, and generative AI to build practical, data-driven solutions.
+---
+
+## Community & Collaboration
+
+I am an active member of the tech community, constantly learning and sharing knowledge with my peers.
+
+* **Google Developer Group (GDG) Kabarak:** As a member of the on-campus GDG, I collaborate with fellow students on projects and stay up-to-date with the latest Google technologies, including their AI and ML platforms.
+* **Member of Impact360 Organization:** I am also a member of Impact360, an organization focused on driving technological impact. I recently participated in a major **AI event** our organization held in collaboration with **Lish AI Labs**, which brought together experts and enthusiasts to explore the latest in AI.
 
 ---
 
@@ -23,6 +31,7 @@ I have a strong foundation in cloud-based AI services, validated by industry-rec
     Achieved a certification from Amazon Web Services focused on Generative AI. This covers the fundamentals of Large Language Models (LLMs), prompt engineering, and the practical application of AWS services like Amazon Bedrock and SageMaker to build generative AI applications.
 
 ---
+
 
 ## Core AI & ML Skills
 
