@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: categories
 title: "AI"
 permalink: /ai/
 author_profile: true
